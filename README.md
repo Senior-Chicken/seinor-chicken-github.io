@@ -1,1 +1,1 @@
-# seinor-chicken-github.io
+# seinor-chicken.github.io
