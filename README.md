@@ -1,1 +1,1 @@
-# seinor-chicken.github.io
+# senior-chicken.github.io
