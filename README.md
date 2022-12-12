@@ -1,1 +1,1 @@
-# senior-chicken.github.io
+# McCurdy722.github.io
